@@ -24,5 +24,5 @@ I use machine learning techniques to simulate dynamics of quantum and classical 
   - [arXiv:2401.03434](https://arxiv.org/abs/2401.03434)
   - [Phys. Rev. B **109**, 205111 (2024)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.205111)
   - [Chin. Phys. Lett. **39**, 077502 (2022)](https://iopscience.iop.org/article/10.1088/0256-307X/39/7/077502/meta)
-  - <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.206602" onclick="window.open('example.html', '_self');">Phys. Rev. Lett. **124**, 206602 (2020)</a>
+  - <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.206602" onclick="window.open('https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.206602', '_self');">Phys. Rev. Lett. **124**, 206602 (2020)</a>
   
