@@ -1,4 +1,4 @@
-# Hi, my name is Ling Wang. I am a theoretical physicist specialized at computer simulation.
+# Hi, my name is Ling Wang. I am a theoretical physicist specializing in computer simulation.
 
 # Bio
 - <div style="text-align: right"> Assistant Professor at Zhejiang University </div>
