@@ -5,8 +5,8 @@
 - <div style="text-align: right"> Assistant Professor at Beijing Computational Science Research Center </div>
 - <div style="text-align: right"> IQIM fellow at Caltech </div>
 - <div style="text-align: right"> Postdoc at University of Vienna </div>
-- <div style="text-align: right"> Ph.D. from Boston University </div>
-- <div style="text-align: right"> B.S. from Zhejiang University </div>
+- <div style="text-align: right"> Ph.D. Boston University </div>
+- <div style="text-align: right"> B.S. Zhejiang University </div>
 
 # Interests
 I use machine learning techniques to simulate quantum and classical statistics and dynamics in high dimensions. 
