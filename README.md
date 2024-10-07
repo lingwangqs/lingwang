@@ -3,7 +3,7 @@
 # Biography
 - <div style="text-align: right"> Assistant Professor at Zhejiang University </div>
 - <div style="text-align: right"> Assistant Professor at Beijing Computational Science Research Center </div>
-- <div style="text-align: right"> Postdoc at Caltech </div>
+- <div style="text-align: right"> IQIM fellow at Caltech </div>
 - <div style="text-align: right"> Postdoc at University of Vienna </div>
 - <div style="text-align: right"> Ph.D. from Boston University </div>
 - <div style="text-align: right"> B.S. from Zhejiang University </div>
